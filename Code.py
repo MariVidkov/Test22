@@ -1,4 +1,4 @@
 def Test():
-    print("obicham kotki")
+    print("obicham zaici")
 
 Test()
